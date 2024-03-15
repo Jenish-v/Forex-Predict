@@ -57,9 +57,6 @@ pip install -r requirements.txt
 - `README.md`: Project overview and instructions.
 - `requirements.txt`: List of required packages.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
